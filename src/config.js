@@ -2,7 +2,7 @@ export const brandDetails = {
     name: "Seventh Sense Spa and Wellness",
     address: "Upper Floor, Plot No. 401, Middle Cir, Block M, Connaught Place, New Delhi, Delhi 110001",
     phone: "092177 98496",
-    email: "info@seventhsensespa.com",
+    email: "ojasluxuryspa1@gmail.com",
     googleMapLink: "https://maps.google.com/?q=Seventh+Sense+Spa+and+Wellness+Connaught+Place",
     hours: "Open 24 hours",
     socialLinks: {
